@@ -1,0 +1,27 @@
+# 狗狗選擇戰
+<style>
+ .red-text {
+    color: red;
+  }
+  .smaller-image {
+    width: 100px;
+  }
+   h2 {
+    font-family: Lobster, monospace;
+  }
+
+</style>
+
+
+<main>
+  <h2 class="red-text">狗狗終極四選一</h2>
+  <p  class="red-text">從以下四種選出你最喜歡的狗狗吧</p>
+ <form
+  <label><input type="radio" name="柯基-柴犬-臘腸狗-貴賓狗" checked> 柯基</label>
+  <img class="smaller-image" src="https://www.niusnews.com/upload/imgs/default/202206_Jennie/0606doxie/S__29687821.jpg" alt=""
+  <label><input type="radio" name="柯基-柴犬-臘腸狗-貴賓狗" checked> 柴犬</label>
+  <label><input type="radio" name="柯基-柴犬-臘腸狗-貴賓狗" checked> 臘腸狗</label>
+  <label><input type="radio" name="柯基-柴犬-臘腸狗-貴賓狗" checked> 貴賓狗</label>
+  </form>
+ 
+</main>
